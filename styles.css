@@ -56,7 +56,7 @@
 	height:50px;
 	width:10px;
 }
-
+.ear{width:10px;}
 .ear.left {
     left: -10px;
 	border-radius: 5px;
@@ -88,7 +88,7 @@
     
 	width:30px;
 }
-
+.eye{width:30px;}
 /* Nose */
 .nose {
     width: 0;
