@@ -52,13 +52,14 @@
 }
 
 .ear {
-    border-radius: 5px;
+    
 	height:50px;
 	width:10px;
 }
 
 .ear.left {
     left: -10px;
+	border-radius: 5px;
 }
 
 .ear.right {
@@ -76,6 +77,7 @@
     align-items: center;
     left: 50%;
     transform: translateX(-50%);
+	border: 5px solid #00b3ff;
 }
 
 .eye {
@@ -83,7 +85,7 @@
     height:30px;
     border-radius: 50%;
     background-color: white;
-    border: 5px solid #00b3ff;
+    
 	width:30px;
 }
 
